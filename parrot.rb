@@ -1,9 +1,12 @@
-def parrot (bird)
+def parrot 
   puts "Squawk!"
   return "Squawk!"
-  puts bird
+
 end
 
+def parrot (bird)
+  puts bird
+end 
 
 
 #method `parrot` that outputs a given phrase and
