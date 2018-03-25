@@ -11,7 +11,7 @@ end
 # Cr
 def parrot (bird)
   puts bird
-end 
+end
 
 def parrot (bird)
   return bird
