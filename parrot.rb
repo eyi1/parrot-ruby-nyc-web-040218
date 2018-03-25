@@ -4,7 +4,7 @@ def parrot
 end
 
 def parrot
-  "Squawk!"
+    return "Squawk!"
 end
 
 
