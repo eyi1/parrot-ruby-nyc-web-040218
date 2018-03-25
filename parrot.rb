@@ -9,7 +9,7 @@ puts "Squawk!"
 end
 
 def parrot (bird)
-  puts "Pretty Bird"
+  puts "Pretty bird"
 end
 
 
