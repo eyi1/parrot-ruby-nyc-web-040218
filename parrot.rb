@@ -3,8 +3,8 @@ def parrot
   return "Squawk!"
 end
 
-def parrot (bird ="pretty bird")
-  puts bird
+def parrot (bird)
+  puts "pretty bird"
 end
 
 
