@@ -5,7 +5,6 @@ end
 
 def parrot
   "Squawk!"
-
 end
 
 
