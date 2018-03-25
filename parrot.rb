@@ -8,7 +8,7 @@ puts "Squawk!"
 "Squawk!"
 end
 
-def parrot (bird)
+def parrot (bird = "Pretty Bird")
   puts bird
 end
 
