@@ -3,5 +3,9 @@ def parrot
 
 end
 
+def parrot  
+  return "Squawk!"
+end 
+
 #method `parrot` that outputs a given phrase and
 # returns the phrase
