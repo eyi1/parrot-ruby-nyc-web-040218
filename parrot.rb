@@ -3,7 +3,7 @@ def parrot
 
 end
 
-def parrot  
+def parrot
   return "Squawk!"
 end 
 
