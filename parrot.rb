@@ -1,6 +1,7 @@
-def parrot
+def parrot (bird)
   puts "Squawk!"
   return "Squawk!"
+  puts bird
 end
 
 
